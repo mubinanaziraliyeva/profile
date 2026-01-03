@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@layer untitles {
+  .desc {
+    @apply max-w-3xs;
+  }
+  .list-item {
+    @apply border-2 rounded-4xl p-5;
+  }
+}
